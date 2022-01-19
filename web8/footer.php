@@ -9,7 +9,7 @@
 					<p class="footer-tel tel-link"><a href="tel:0261622140" class="">TEL.<span class="footer-tel-num">0261-62-2140</span></a></p>
 				</div>
 				<a class="btn-base btn-green" href="<?php echo esc_html(home_url()); ?>/contact">お問合せ・資料請求</a>
-				<a class="btn-instagram" href="http://" target="_blank" rel="noopener noreferrer">
+				<a class="btn-instagram" href="https://www.instagram.com/kizukurinoie" target="_blank" rel="noopener noreferrer">
 					<img src="<?php echo get_template_directory_uri(); ?>/img/common/icon-instagram.png" alt="Instagram" class="icon">
 				</a>
 				<?php // フッターナビ（カスタムメニュー呼び出し）
