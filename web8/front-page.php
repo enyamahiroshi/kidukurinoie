@@ -57,7 +57,7 @@
 </div>
 
 <?php /* トピックス */ ?>
-<?php require_once('asset/entry_slider_slick.php'); ?>
+<?php require_once('asset/entry_list.php'); ?>
 
 <?php /* ナガブロ読込み */ ?>
 <?php require_once('asset/include_feed.php'); ?>
