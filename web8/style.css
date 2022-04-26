@@ -2324,8 +2324,9 @@ table {
     text-align: center;
     margin-bottom: 10px
   }
-  .feed-list-block:nth-of-type(2n) {
+  .feed-list-block:nth-of-type(n+3) {
     display: none;
+
   }
   .feed-list-item {
     position: relative;
