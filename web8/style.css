@@ -2326,7 +2326,6 @@ table {
   }
   .feed-list-block:nth-of-type(n+3) {
     display: none;
-
   }
   .feed-list-item {
     position: relative;
